@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fireappcourse-e599d": {
+      "hosting": {
+        "app": [
+          "fireappcourse-e599d"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fireappcourse-e599d"
+  }
+}
